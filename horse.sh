@@ -1,0 +1,3 @@
+animal="horse"
+
+echo "$animal"
