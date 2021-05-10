@@ -1,5 +1,5 @@
 #!/bin/bash
 
-OF=~/backups/my-backup-$(date +%Y%m%d).tgz
+OF="my-backup-$(date +%Y%m%d).tbz"
 
-tar -cZf $OF /home/nikolai/Workspace/langs/bash/notes
+tar -cjf $OF "./" 
