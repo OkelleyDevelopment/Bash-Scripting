@@ -3,8 +3,19 @@
 ## Motivation
 
 Having moved most of my development life and slowly more of my everyday
-computing needs to Linux, I want to be able to write scripts that install
-my default tools needed for my [neovim config](https://github.com/OkelleyDevelopment/Nvim-Configs). 
+computing needs to Linux, I wanted to be able to write scripts that
+automate various installs for tools and configurations such as my:
+
+- [Nvim-Config](https://github.com/OkelleyDevelopment/Nvim-Configs)
+
+Or the more recently created,
+
+- [Odinvim](https://github.com/OkelleyDevelopment/Odinvim)
   
-In order to continue with that goal, I must first understand the language which dictates 
-how these operations are completed. Therefore, we have this Bash-Scripting repo!
+Therefore, we have this Bash-Scripting repo!
+
+## Disclaimer
+
+Some of these scripts were written as purely toy programs and should only
+be run at your discretion. I provide no assurance that things won't go wonky;
+this is a learning repo afterall. :)
